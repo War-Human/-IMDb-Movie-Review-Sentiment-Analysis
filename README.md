@@ -92,6 +92,8 @@ The objective of this project is to:
 - Bar plots showing class balance
 - Confusion matrix to evaluate model performance
 - ROC-AUC curve for model comparison
+![image](https://github.com/user-attachments/assets/5ccc73c5-7103-4e83-b371-77b82f28ad27)
+![image](https://github.com/user-attachments/assets/26349780-c029-4a72-a6f9-6bb23cd566bd)
 
 ---
 
