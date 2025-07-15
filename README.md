@@ -81,7 +81,7 @@ The objective of this project is to:
   - `nltk`, `spaCy` – Text preprocessing
   - `scikit-learn` – Machine learning
   - `matplotlib`, `seaborn` – Visualization
-  - `TensorFlow/Keras` – For neural networks (LSTM, if used)
+  - `TensorFlow/Keras` – For neural networks (LSTM, used in advance version of this model)
 
 ---
 
